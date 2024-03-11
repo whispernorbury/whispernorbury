@@ -2,7 +2,7 @@
 ### 😋Idea
 - Cafelov : Service for CafeStudyers
 - Yonsei Univ Compact Application
-- Muzzi : Restaurant recommendation service
+- Muzza : Restaurant recommendation service
 <!--
 **whispernorbury/whispernorbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
